@@ -22,7 +22,7 @@ says so.
 | [arXiv Scraper: New Papers by Query](https://apify.com/v0iddo/arxiv-daily-papers) | Pull newly-submitted arXiv preprints by query. | $1.00 |  |
 | [Ashby Jobs API and Scraper: Job Postings by Company](https://apify.com/v0iddo/ashby-public-jobs) | Ashby jobs API and scraper. | $1.70 |  |
 | [Audio Transcription: Audio to Text Converter, Podcast, Video](https://apify.com/v0iddo/audio-transcription) | Speech to text with Whisper: transcribe audio and video files and podcast episodes, with timestamps and SRT or VTT su... | $10.00 |  |
-| [Bulk File and Image Downloader: Download Images from Website](https://apify.com/v0iddo/bulk-file-downloader) | Download files in bulk from direct links, or every image, video, audio file, PDF, document or archive on a list of we... | $2.00 |  |
+| [Bulk File Downloader and Image Downloader: Web Pages, PDFs](https://apify.com/v0iddo/bulk-file-downloader) | Download files in bulk from direct links, or every image, video, audio file, PDF, document or archive on a list of we... | $2.00 | [code](https://github.com/voidd0/bulk-file-downloader-and-image-downloader) |
 | [Capterra Product Reviews: Reviews by Product ID](https://apify.com/v0iddo/capterra-product-reviews) | Pull Capterra.com product reviews via the public reviews page. | $1.00 |  |
 | [Chrome Web Store Scraper: Extension Details and Ratings](https://apify.com/v0iddo/chrome-webstore-extensions) | Snapshot Chrome Web Store extension metadata via the public listing page. | $0.50 |  |
 | [ClinicalTrials.gov Scraper: Trial Updates by Query](https://apify.com/v0iddo/clinicaltrials-updates-tracker) | Pull recently-updated ClinicalTrials.gov studies matching a query. | $2.98 |  |
@@ -88,9 +88,10 @@ says so.
 | [Sitemap URL Extractor: Robots.txt and Sitemap Index to URLs](https://apify.com/v0iddo/sitemap-url-extractor) | Sitemap URL extractor and sitemap index crawler. | $1.00 |  |
 | [Snapchat Profile and Spotlight Scraper](https://apify.com/v0iddo/snapchat-scraper) | Scrape Snapchat public creator profiles: display name, subscriber count, bio, and per-video Spotlight stats including... | $1.49 |  |
 | [Steam Game Reviews Scraper](https://apify.com/v0iddo/steam-game-reviews) | Scrape Steam player reviews by App ID. | $1.00 |  |
+| [Substack Newsletter Scraper](https://apify.com/v0iddo/creator-leads-scraper) | Scrape Substack newsletter profiles by creator handle: publication name, URL, description, paid tier status, communit... | $2.55 |  |
 | [Substack Posts Scraper: Archive, Reactions, Comments](https://apify.com/v0iddo/substack-scraper) | Collect the posts of any Substack publication: title, subtitle, date, link, paywall flag, reactions, comments, word c... | $1.00 |  |
 | [Substack Scraper: Newsletter Posts by Publication](https://apify.com/v0iddo/substack-newsletter-posts) | Substack scraper for newsletter posts. | $1.06 |  |
-| [TikTok Shop Scraper: Products, Units Sold](https://apify.com/v0iddo/tiktok-shop-product-scraper) | Scrape TikTok Shop product pages in the United States from product links or IDs: title, price, original price, discou... | $4.25 |  |
+| [TikTok Shop Scraper: Products, Units Sold](https://apify.com/v0iddo/tiktok-shop-product-scraper) | Scrape TikTok Shop product pages in the United States from product links or IDs: title, price, original price, discou... | $2.70 |  |
 | [Time Zone Converter: IANA Zones, DST, Offsets, Batch](https://apify.com/v0iddo/time-zone-converter) | Convert a date and time between IANA time zones with exact daylight-saving handling, inspect a zone's offset and tran... | $1.00 |  |
 | [US Executive Orders & Presidential Docs Tracker](https://apify.com/v0iddo/us-executive-orders-tracker) | Pull all US Presidential Documents from the Federal Register API: Executive Orders, Proclamations, Memoranda, Determi... | $10.00 |  |
 | [USAspending Awards Scraper: Federal Contracts and Grants](https://apify.com/v0iddo/usaspending-federal-awards) | Pull recent federal contract and grant awards from USAspending.gov. | $1.70 |  |
@@ -105,7 +106,7 @@ says so.
 | [Yahoo Finance Scraper: Stock Quotes and Key Statistics](https://apify.com/v0iddo/yahoo-finance-scraper) | Scrape Yahoo Finance quotes and key statistics for stocks, ETFs, indexes, crypto, currencies and futures: price, chan... | $1.00 |  |
 | [Zillow Search Scraper: Homes for Sale, Rent and Sold](https://apify.com/v0iddo/zillow-scraper) | Scrape Zillow search results for homes for sale, rentals and recently sold properties: price, address, beds, baths, l... | $1.50 |  |
 
-97 Actors. Start any of them from its page with the example input that is already filled in, or run it with
+98 Actors. Start any of them from its page with the example input that is already filled in, or run it with
 your API token from [Console > Settings > Integrations](https://console.apify.com/settings/integrations).
 
 Made by [vøiddo](https://voiddo.com). MIT for the code in this repository.
