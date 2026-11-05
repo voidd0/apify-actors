@@ -39,8 +39,9 @@ says so.
 | [DefiLlama Scraper: Protocol TVL by Chain and Category](https://apify.com/v0iddo/defillama-protocols-snapshot) | Snapshot every DefiLlama-tracked protocol filtered by chain, category, and TVL range. | $0.10 |  |
 | [Domain Availability Checker: Bulk RDAP](https://apify.com/v0iddo/domain-availability-checker) | Check if domains are available, in bulk: one row per domain with available or registered, registrar, creation and exp... | $1.00 | [code](https://github.com/voidd0/domain-availability-checker) |
 | [DuckDuckGo Search Scraper](https://apify.com/v0iddo/duckduckgo-scraper) | Scrape DuckDuckGo web search results into structured rows: title, URL, snippet, position, and query. | $0.51 |  |
+| [Eluta.ca Job Scraper](https://apify.com/v0iddo/eluta-ca-job-scraper) | Scrape Canadian job listings from eluta.ca by keyword and location. | $0.77 |  |
 | [Eventbrite Event Data Scraper: City, Dates, Ticket Prices](https://apify.com/v0iddo/eventbrite-scraper) | Collect public Eventbrite events for any city or online: name, start and end, venue and city, online flag, ticket pri... | $1.00 |  |
-| [Eventbrite Scraper: Events by Query and Location](https://apify.com/v0iddo/eventbrite-events-search) | Search Eventbrite events by keyword and location. | $0.30 |  |
+| [Eventbrite Scraper: Events by Query and Location](https://apify.com/v0iddo/eventbrite-events-search) | Search Eventbrite events by keyword and location. | $0.30 | [code](https://github.com/voidd0/eventbrite-scraper) |
 | [Extract Frames from Video: Video Frame Extractor, Thumbnails](https://apify.com/v0iddo/video-frame-extractor) | Extract still frames from video files as JPEG, PNG or WebP images with timecodes: one every N seconds, a number evenl... | $1.50 |  |
 | [Extract Text from PDF: Markdown & Metadata](https://apify.com/v0iddo/pdf-text-extractor) | Extract the text of PDF files page by page, as plain text or as Markdown with headings, bold, lists and paragraphs, r... | $1.00 |  |
 | [Facebook Ad Library Scraper](https://apify.com/v0iddo/facebook-ads-library-scraper) | Collect public ads from the Meta Ad Library by keyword, advertiser Page ID or Ad Library link: ad text, headline, lan... | $0.50 | [code](https://github.com/voidd0/facebook-ads-library-scraper) |
@@ -62,7 +63,7 @@ says so.
 | [Image Converter: WEBP to PNG, PNG to JPG, JPG to WEBP, GIF](https://apify.com/v0iddo/image-converter) | Convert and resize images between PNG, JPEG, WEBP, GIF, BMP, TIFF and ICO, with quality, fit modes, transparency hand... | $0.70 |  |
 | [Insider Trades Scraper: SEC EDGAR Form 4 by Ticker](https://apify.com/v0iddo/sec-form4-insider-trades) | Pull clean, parsed Form 4 insider trades from SEC EDGAR by ticker. | $1.70 |  |
 | [Instahyre Jobs Scraper: India Jobs, Skills](https://apify.com/v0iddo/instahyre-jobs-scraper) | Scrape India jobs from Instahyre: title, company, locations, skills, experience in years, posting date, employment ty... | $0.50 | [code](https://github.com/voidd0/instahyre-jobs-scraper) |
-| [Internshala Scraper](https://apify.com/v0iddo/internshala-scraper) | Scrape internshala.com for internships and fresher jobs: title, company, location, stipend, duration, work-from-home... | $0.39 |  |
+| [Internshala Scraper](https://apify.com/v0iddo/internshala-scraper) | Scrape internshala.com for internships and fresher jobs: title, company, location, stipend, duration, work-from-home... | $0.34 |  |
 | [JetBrains Marketplace Plugin Scraper](https://apify.com/v0iddo/jetbrains-marketplace-plugins) | Scrape JetBrains Marketplace plugins by numeric ID: name, vendor, rating, downloads, description, link, preview, family. | $1.00 |  |
 | [Jobs.ch & Jobup.ch Scraper: Swiss Jobs](https://apify.com/v0iddo/jobs-ch-scraper) | Scrape Swiss job postings from jobs.ch and jobup.ch: title, company, address, canton, workload percent, employment ty... | $0.90 |  |
 | [JobTeaser Job Scraper](https://apify.com/v0iddo/jobteaser-job-scraper) | Scrape job listings from jobteaser.com: title, company, location, contract type, posted time, easy-apply and featured... | $0.79 |  |
@@ -121,7 +122,7 @@ says so.
 | [Yahoo Finance Scraper: Stock Quotes and Key Statistics](https://apify.com/v0iddo/yahoo-finance-scraper) | Scrape Yahoo Finance quotes and key statistics for stocks, ETFs, indexes, crypto, currencies and futures: price, chan... | $0.50 |  |
 | [Zillow Search Scraper: Homes for Sale, Rent and Sold](https://apify.com/v0iddo/zillow-scraper) | Scrape Zillow search results for homes for sale, rentals and recently sold properties: price, address, beds, baths, l... | $1.50 |  |
 
-113 Actors. Start any of them from its page with the example input that is already filled in, or run it with
+114 Actors. Start any of them from its page with the example input that is already filled in, or run it with
 your API token from [Console > Settings > Integrations](https://console.apify.com/settings/integrations).
 
 Made by [vøiddo](https://voiddo.com). MIT for the code in this repository.
