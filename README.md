@@ -7,7 +7,7 @@ says so.
 
 | Actor | What it returns | Per 1,000 results | Example code |
 | --- | --- | --- | --- |
-| [Alibaba Scraper: Prices, MOQ, Suppliers](https://apify.com/v0iddo/alibaba-scraper) | Scrape Alibaba.com product offers by keyword: title, price range and quantity price tiers, minimum order, units sold,... | $0.75 |  |
+| [Alibaba Scraper: Prices, MOQ, Suppliers](https://apify.com/v0iddo/alibaba-scraper) | Scrape Alibaba.com product offers by keyword: title, price range and quantity price tiers, minimum order, units sold,... | $0.75 | [code](https://github.com/voidd0/alibaba-scraper) |
 | [AliExpress Scraper: Prices, Sold Counts](https://apify.com/v0iddo/aliexpress-scraper) | Scrape AliExpress search results into product rows: product ID, title, sale price, original price, discount, star rat... | $1.50 |  |
 | [Amazon Bestsellers Scraper: New Releases](https://apify.com/v0iddo/amazon-bestsellers-scraper) | Scrape Amazon.com Best Sellers and New Releases lists by category link: rank, ASIN, title, price, star rating, rating... | $1.00 |  |
 | [Amazon Product Details Scraper: ASIN, Price, Sales Rank](https://apify.com/v0iddo/amazon-product-scraper) | Scrape Amazon.com product pages from ASINs or links: title, brand, price, list price, rating, ratings count, stock st... | $1.50 | [code](https://github.com/voidd0/amazon-product-details-scraper) |
@@ -48,7 +48,7 @@ says so.
 | [FCC ECFS Public Notices & Filings Scraper](https://apify.com/v0iddo/fcc-public-notices) | Scrapes FCC ECFS (Electronic Comment Filing System) filings and public notices by docket/proceeding number. | $2.55 |  |
 | [Federal Register Scraper: Rules, Proposed Rules, Notices](https://apify.com/v0iddo/federal-register-tracker) | Pull Federal Register articles filtered by agency, document type, date range, significant-rule flag, or full-text query. | $0.10 |  |
 | [Fotocasa Scraper: Spain Homes for Sale and Rent](https://apify.com/v0iddo/fotocasa-scraper) | Scrape Fotocasa property listings for sale or to rent across Spain: price, price drop, rooms, bathrooms, surface, flo... | $0.77 |  |
-| [Freelancer.com Jobs and Projects Scraper](https://apify.com/v0iddo/freelancer-jobs-projects-scraper) | Scrape Freelancer.com job listings by skill: project title, description, budget range, bid count, required skills, pa... | $0.50 |  |
+| [Freelancer.com Jobs and Projects Scraper](https://apify.com/v0iddo/freelancer-jobs-projects-scraper) | Scrape Freelancer.com job listings by skill: project title, description, budget range, bid count, required skills, pa... | $0.25 |  |
 | [G2 Product Reviews: Reviews by Product Slug](https://apify.com/v0iddo/g2-product-reviews) | Pull G2.com product reviews via the public product review pages. | $1.27 |  |
 | [GitHub Security Advisories Scraper by Ecosystem](https://apify.com/v0iddo/github-security-advisories) | For each ecosystem (NPM, PIP, MAVEN, NUGET, RUBYGEMS, RUST, GO, ACTIONS, SWIFT and more), pull recent GitHub Security... | $0.50 |  |
 | [GitHub Trending Scraper: Repos by Language and Period](https://apify.com/v0iddo/github-trending-repos) | Pull the GitHub Trending repository list: daily, weekly, or monthly, filtered by programming language and spoken lang... | $1.00 |  |
