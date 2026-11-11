@@ -8,6 +8,7 @@ says so.
 | Actor | What it returns | Per 1,000 results | Example code |
 | --- | --- | --- | --- |
 | [Alibaba Scraper: Prices, MOQ, Verified Suppliers](https://apify.com/v0iddo/alibaba-scraper) | Scrape Alibaba.com product offers by keyword: price range and quantity price tiers, minimum order, units sold, rating... | $0.75 | [code](https://github.com/voidd0/alibaba-scraper) |
+| [Alibaba Supplier Shortlist by Price, MOQ and Trust](https://apify.com/v0iddo/alibaba-supplier-shortlist) | Get a ranked shortlist of Alibaba.com suppliers for each product you name: each supplier scored on price against the... | $490.00 |  |
 | [AliExpress Scraper: Prices, Sold Counts](https://apify.com/v0iddo/aliexpress-scraper) | Scrape AliExpress search results into product rows: product ID, title, sale price, original price, discount, star rat... | $1.50 |  |
 | [Amazon Bestsellers Scraper: New Releases](https://apify.com/v0iddo/amazon-bestsellers-scraper) | Scrape Amazon.com Best Sellers and New Releases lists by category link: rank, ASIN, title, price, star rating, rating... | $1.00 |  |
 | [Amazon Product Details Scraper: ASIN, Price, Sales Rank](https://apify.com/v0iddo/amazon-product-scraper) | Scrape Amazon.com product pages from ASINs or links: title, brand, price, list price, rating, ratings count, stock st... | $1.50 | [code](https://github.com/voidd0/amazon-product-details-scraper) |
@@ -58,7 +59,7 @@ says so.
 | [Gupy Jobs Scraper: Brazil Job Vacancies](https://apify.com/v0iddo/gupy-scraper) | Scrape Brazilian job postings from Gupy, the hiring system of most large employers in Brazil: title, company, city, s... | $0.50 |  |
 | [Hacker News Scraper: Stories and Comments by Query](https://apify.com/v0iddo/hn-algolia-search) | Search Hacker News via the public Algolia API. | $0.10 |  |
 | [Hiring.Cafe Jobs Scraper](https://apify.com/v0iddo/hiring-cafe-scraper) | Scrape job listings from Hiring.Cafe: title, company, location, workplace type, seniority, job category, technical to... | $1.00 |  |
-| [Hirist Jobs Scraper: India Tech Jobs, Salary](https://apify.com/v0iddo/hirist-jobs-scraper) | Scrape India tech jobs from hirist.tech: title, company, locations, experience in years, salary in lakhs when shown,... | $0.50 |  |
+| [Hirist Jobs Scraper: India Tech Jobs, Salary](https://apify.com/v0iddo/hirist-jobs-scraper) | Scrape India tech jobs from hirist.tech: title, company, locations, experience in years, salary in lakhs when shown,... | $0.50 | [code](https://github.com/voidd0/hirist-jobs-scraper) |
 | [HTML to Image Converter: Convert HTML to PNG, JPG and WEBP](https://apify.com/v0iddo/html-to-image) | Render an HTML snippet to a PNG, JPEG or WEBP image at any width, with retina scaling and transparent background. | $3.40 |  |
 | [IIMJobs Scraper: India Finance and MBA Jobs](https://apify.com/v0iddo/iimjobs-scraper) | Scrape India finance, sales, consulting, HR and operations jobs from iimjobs.com: company, locations, experience in y... | $0.50 |  |
 | [Image Converter: WEBP to PNG, PNG to JPG, JPG to WEBP, GIF](https://apify.com/v0iddo/image-converter) | Convert and resize images between PNG, JPEG, WEBP, GIF, BMP, TIFF and ICO, with quality, fit modes, transparency hand... | $0.70 |  |
@@ -107,7 +108,6 @@ says so.
 | [Substack Posts Scraper: Archive, Reactions, Comments](https://apify.com/v0iddo/substack-scraper) | Collect the posts of any Substack publication: title, subtitle, date, link, paywall flag, reactions, comments, word c... | $0.85 |  |
 | [Substack Scraper: Newsletter Posts by Publication](https://apify.com/v0iddo/substack-newsletter-posts) | Substack scraper for newsletter posts. | $1.06 |  |
 | [Tennis Scores and Results Scraper: ATP, WTA, Odds, Rankings](https://apify.com/v0iddo/tennis-scores-api) | Scrape tennis scores: ATP and WTA match results of any day with set by set scores, tiebreaks, winner and pre-match od... | $1.95 |  |
-| [TheFork Restaurant Reviews Scraper](https://apify.com/v0iddo/thefork-restaurant-reviews-scraper) | Scrape TheFork city listing pages into restaurant rows: name, cuisine, address, TheFork rating, review count, average... | $1.70 |  |
 | [TikTok Shop Scraper: Products, Prices, Units Sold, Shops](https://apify.com/v0iddo/tiktok-shop-product-scraper) | Scrape TikTok Shop product pages in the United States from product links or IDs: title, price, original price, discou... | $2.29 | [code](https://github.com/voidd0/tiktok-shop-scraper) |
 | [Time Zone Converter: IANA Zones, DST, Offsets, Batch](https://apify.com/v0iddo/time-zone-converter) | Convert a date and time between IANA time zones with exact daylight-saving handling, inspect a zone's offset and tran... | $1.00 |  |
 | [Trustpilot Reviews Scraper: New Reviews, Star Filter](https://apify.com/v0iddo/trustpilot-reviews-deep) | Scrape Trustpilot reviews by business slug: stars, title, text, language, dates and owner reply, plus sentiment tags... | $0.30 |  |
