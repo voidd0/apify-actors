@@ -12,7 +12,6 @@ says so.
 | [AliExpress Scraper: Prices, Sold Counts](https://apify.com/v0iddo/aliexpress-scraper) | Scrape AliExpress search results into product rows: product ID, title, sale price, original price, discount, star rat... | $1.50 | [code](https://github.com/voidd0/aliexpress-scraper) |
 | [Amazon Bestsellers Scraper: New Releases](https://apify.com/v0iddo/amazon-bestsellers-scraper) | Scrape Amazon.com Best Sellers and New Releases lists by category link: rank, ASIN, title, price, star rating, rating... | $1.00 |  |
 | [Amazon Product Details Scraper: ASIN, Price, Sales Rank](https://apify.com/v0iddo/amazon-product-scraper) | Scrape Amazon.com product pages from ASINs or links: title, brand, price, list price, rating, ratings count, stock st... | $1.50 | [code](https://github.com/voidd0/amazon-product-details-scraper) |
-| [Amazon Search Scraper: Monthly Sales, Badges, Prices](https://apify.com/v0iddo/amazon-search-scraper) | Scrape Amazon.com search results into clean product rows: ASIN, title, price, list price, star rating, ratings count,... | $1.00 |  |
 | [Android App Metadata Scraper: Google Play Details, Ratings](https://apify.com/v0iddo/google-play-app-metadata) | Snapshot Android app metadata from Google Play for any package name, in any country. | $0.50 |  |
 | [Android App Reviews Scraper: Google Play Reviews by Package](https://apify.com/v0iddo/google-play-app-reviews) | Pull Android app reviews from Google Play by package ID, with country and language options. | $0.30 |  |
 | [Apna.co Scraper: India Jobs and Monthly Salaries](https://apify.com/v0iddo/apna-co-scraper) | Scrape job listings from Apna.co in India: title, company, city and area, monthly salary range in INR, office, field... | $0.78 |  |
@@ -35,6 +34,7 @@ says so.
 | [CoinGecko Scraper: Crypto Market Data by Category](https://apify.com/v0iddo/coingecko-category-snapshot) | For each CoinGecko category ID (`layer-1`, `defi`, `meme-token`, etc.), pull its coins by market cap: 250 per categor... | $0.10 |  |
 | [CoinGecko Tokens Scraper: Token List by Category](https://apify.com/v0iddo/coingecko-tokens-by-category) | Pulls the top 100 tokens by market cap in each CoinGecko category (DeFi, meme, L1, ecosystem tags) with current price... | $1.00 |  |
 | [Coles Price Scraper: Specials, Unit Prices](https://apify.com/v0iddo/coles-scraper) | Scrape Coles Australia products by department, category or the specials pages: price, was price, unit price, half pri... | $0.50 |  |
+| [Computrabajo Job Alerts: New Jobs to Slack or Webhook](https://apify.com/v0iddo/computrabajo-job-alerts) | For recruiters and HR analysts: only new, changed or expired Computrabajo job offers in 18 LATAM countries, sent to S... | $2.00 |  |
 | [Computrabajo Salary Benchmark by Job Title and Country](https://apify.com/v0iddo/computrabajo-salary-benchmark) | Get a salary benchmark for any job title from Computrabajo postings in 18 Latin American countries: monthly median, q... | $490.00 |  |
 | [Computrabajo Scraper: LATAM Jobs and Salaries](https://apify.com/v0iddo/computrabajo-scraper) | Scrape job postings from Computrabajo in 18 Latin American countries: title, company with rating, city, region, salar... | $0.50 | [code](https://github.com/voidd0/computrabajo-scraper) |
 | [Convert HTML to PDF (A4, Letter, Legal, A3 and more)](https://apify.com/v0iddo/html-to-pdf) | Turn an HTML document into a print-ready PDF with page size, margins, orientation and page-numbered header and footer. | $3.40 |  |
@@ -76,7 +76,6 @@ says so.
 | [JobTeaser Job Scraper](https://apify.com/v0iddo/jobteaser-job-scraper) | Scrape job listings from jobteaser.com: title, company, location, contract type, posted time, easy-apply and featured... | $0.79 |  |
 | [JSON Schema Validator: Bulk, Draft 7, 2019-09, 2020-12](https://apify.com/v0iddo/validate-json-schema) | Validate a JSON document, or up to 1000 of them, against a JSON Schema (draft 7, 2019-09 or 2020-12) and list every e... | $1.70 |  |
 | [JustJoin.it Scraper: Polish IT Jobs and Salaries](https://apify.com/v0iddo/justjoin-it) | Scrape IT job offers from JustJoin.it in Poland: title, company, city, work mode, seniority, tech stack, salary from... | $0.50 |  |
-| [Kariyer Scraper: Kariyer.net Turkey Job Listings](https://apify.com/v0iddo/kariyer-scraper) | Scrape job listings from Kariyer.net, the largest job board in Turkey, by city, keyword or listing link. | $0.84 |  |
 | [Lever Jobs API and Scraper: Job Postings by Company](https://apify.com/v0iddo/lever-public-jobs) | Lever jobs API and scraper. | $0.20 |  |
 | [Luma Event Scraper](https://apify.com/v0iddo/luma-event-scraper) | Scrape public event listings from luma.com city and calendar pages. | $2.38 |  |
 | [Made-in-China.com Product Scraper](https://apify.com/v0iddo/made-in-china-scraper) | Scrape Made-in-China.com product search pages by keyword. | $1.44 |  |
@@ -101,7 +100,7 @@ says so.
 | [PriceCharting Scraper: Game, Card and Collectible Prices](https://apify.com/v0iddo/pricecharting-product-scraper) | Scrape PriceCharting prices for video games, Pokemon and other trading cards, comics, coins, Funko Pops and LEGO: loo... | $2.13 |  |
 | [Product Hunt Scraper: Daily Launches](https://apify.com/v0iddo/producthunt-launches-tracker) | Pull recent Product Hunt launches via the public Atom feed. | $1.00 |  |
 | [PubMed Scraper: New Citations by Query](https://apify.com/v0iddo/pubmed-daily-citations-tracker) | Pull daily-new PubMed citations matching any query. | $1.00 |  |
-| [PyPI Scraper: Python Package Details and Stats](https://apify.com/v0iddo/pypi-package-tracker) | Snapshot PyPI package metadata using the public pypi.org/pypi/<pkg>/json endpoint. | $0.20 |  |
+| [PyPI Scraper: Python Package Details and Stats](https://apify.com/v0iddo/pypi-package-tracker) | Snapshot PyPI package metadata using the public pypi.org/pypi/<pkg>/json endpoint. | $0.20 | [code](https://github.com/voidd0/pypi-scraper) |
 | [QR Code Generator (PNG and SVG)](https://apify.com/v0iddo/qr-code-generator) | Turn text or a URL into a crisp QR code as PNG or SVG, with size and error-correction control. | $2.37 |  |
 | [Rakuten Ichiba Listings Scraper](https://apify.com/v0iddo/rakuten-japan-listings-scraper) | Scrape Rakuten Ichiba search results into product rows: title, JPY price, shop name, review score, review count, Raku... | $1.28 |  |
 | [Reed Jobs Scraper: UK Jobs and Salaries](https://apify.com/v0iddo/reed-jobs-scraper) | Scrape UK job postings from reed.co.uk: title, company, agency or employer, place, county, region, postcode, salary r... | $0.45 |  |
@@ -144,7 +143,7 @@ says so.
 | [Yahoo Finance Scraper: Options Chain, History, Stock Quotes](https://apify.com/v0iddo/yahoo-finance-scraper) | Scrape Yahoo Finance for stocks, ETFs, indexes, crypto and currencies: quotes and key statistics (price, market cap,... | $0.85 | [code](https://github.com/voidd0/yahoo-finance-scraper) |
 | [Zillow Search Scraper: Homes for Sale, Rent and Sold](https://apify.com/v0iddo/zillow-scraper) | Scrape Zillow search results for homes for sale, rentals and recently sold properties: price, address, beds, baths, l... | $1.50 |  |
 
-136 Actors. Start any of them from its page with the example input that is already filled in, or run it with
+135 Actors. Start any of them from its page with the example input that is already filled in, or run it with
 your API token from [Console > Settings > Integrations](https://console.apify.com/settings/integrations).
 
 Made by [vøiddo](https://voiddo.com). MIT for the code in this repository.
